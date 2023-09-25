@@ -1,0 +1,30 @@
+body {
+    background-image: url('https://us.123rf.com/450wm/natrot/natrot1608/natrot160800105/61348388-degradado-azul-abstracto-se-utiliza-como-fondo-para-la-exhibici%C3%B3n-de-productos-vector.jpg'); 
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    background-color: rgba(255,255,255,0.8);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #343a40;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.forgot{
+    text-align: right;
+    font-size: small;
+}
