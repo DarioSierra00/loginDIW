@@ -34,10 +34,6 @@ body {
     font-size: small;
 }
 
-.bodyForgot {
-    font-family: Arial, sans-serif;
-    background-color: #f2f2f2;
-  }
   
 .forgot-password-screen {
     max-width: 400px;
@@ -56,6 +52,11 @@ h1 {
   
 p {
     margin-bottom: 10px;
+}
+
+.emailText{
+    position: relative;
+    left: 2.7%;
 }
   
 input {
